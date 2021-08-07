@@ -1,0 +1,23 @@
+.ui{
+    background-color: blue;
+}
+.by{
+    height: 20px;
+    margin-left: 200px;
+    background-color: blueviolet;
+}
+.two{
+    margin-left: 500px;
+    background-color: chocolate;
+}
+h1{
+    padding: 400px;
+    margin-left: 250px;
+    font-size: 75px
+}
+button{
+    
+}
+body{
+    background-image: url("back.jpg");
+}
